@@ -1,0 +1,3 @@
+MSCR = CLASSRATE(:,50,:);
+crMean = mean(MSCR,1);
+[]

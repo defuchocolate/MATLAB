@@ -1,0 +1,600 @@
+CLASSNUM = 30,t=1,nRightCount=109,pseudo_loss=4.741379e-002,bt = 4.977376e-002
+CLASSNUM = 30,t=2,nRightCount=104,pseudo_loss=5.039323e-002,bt = 5.306747e-002
+CLASSNUM = 30,t=3,nRightCount=101,pseudo_loss=6.267708e-002,bt = 6.686818e-002
+CLASSNUM = 30,t=4,nRightCount=107,pseudo_loss=3.286440e-002,bt = 3.398117e-002
+CLASSNUM = 30,t=5,nRightCount=98,pseudo_loss=7.550525e-002,bt = 8.167191e-002
+CLASSNUM = 30,t=6,nRightCount=99,pseudo_loss=5.737586e-002,bt = 6.086823e-002
+CLASSNUM = 30,t=7,nRightCount=100,pseudo_loss=5.896728e-002,bt = 6.266231e-002
+CLASSNUM = 30,t=8,nRightCount=103,pseudo_loss=5.115724e-002,bt = 5.391541e-002
+CLASSNUM = 30,t=9,nRightCount=91,pseudo_loss=1.268913e-001,bt = 1.453327e-001
+CLASSNUM = 30,t=10,nRightCount=87,pseudo_loss=9.192334e-002,bt = 1.012286e-001
+CLASSNUM = 30,t=11,nRightCount=88,pseudo_loss=8.531130e-002,bt = 9.326812e-002
+CLASSNUM = 30,t=12,nRightCount=95,pseudo_loss=4.995339e-002,bt = 5.257993e-002
+CLASSNUM = 30,t=13,nRightCount=85,pseudo_loss=1.132457e-001,bt = 1.277081e-001
+CLASSNUM = 30,t=14,nRightCount=88,pseudo_loss=9.152944e-002,bt = 1.007511e-001
+CLASSNUM = 30,t=15,nRightCount=94,pseudo_loss=9.103659e-002,bt = 1.001543e-001
+CLASSNUM = 30,t=16,nRightCount=90,pseudo_loss=8.375094e-002,bt = 9.140631e-002
+CLASSNUM = 30,t=17,nRightCount=92,pseudo_loss=1.121158e-001,bt = 1.262730e-001
+CLASSNUM = 30,t=18,nRightCount=94,pseudo_loss=5.081611e-002,bt = 5.353663e-002
+CLASSNUM = 30,t=19,nRightCount=86,pseudo_loss=1.226088e-001,bt = 1.397424e-001
+CLASSNUM = 30,t=20,nRightCount=95,pseudo_loss=7.462495e-002,bt = 8.064292e-002
+CLASSNUM = 30,t=21,nRightCount=87,pseudo_loss=9.920743e-002,bt = 1.101335e-001
+CLASSNUM = 30,t=22,nRightCount=89,pseudo_loss=5.067598e-002,bt = 5.338112e-002
+CLASSNUM = 30,t=23,nRightCount=91,pseudo_loss=7.367528e-002,bt = 7.953505e-002
+CLASSNUM = 30,t=24,nRightCount=88,pseudo_loss=1.184464e-001,bt = 1.343609e-001
+CLASSNUM = 30,t=25,nRightCount=91,pseudo_loss=8.035784e-002,bt = 8.737946e-002
+CLASSNUM = 30,t=26,nRightCount=86,pseudo_loss=1.197649e-001,bt = 1.360601e-001
+CLASSNUM = 30,t=27,nRightCount=90,pseudo_loss=1.277275e-001,bt = 1.464308e-001
+CLASSNUM = 30,t=28,nRightCount=81,pseudo_loss=1.942795e-001,bt = 2.411251e-001
+CLASSNUM = 30,t=29,nRightCount=81,pseudo_loss=1.171768e-001,bt = 1.327297e-001
+CLASSNUM = 30,t=30,nRightCount=88,pseudo_loss=7.397260e-002,bt = 7.988165e-002
+CLASSNUM = 30,t=31,nRightCount=88,pseudo_loss=9.078219e-002,bt = 9.984647e-002
+CLASSNUM = 30,t=32,nRightCount=79,pseudo_loss=1.418915e-001,bt = 1.653539e-001
+CLASSNUM = 30,t=33,nRightCount=72,pseudo_loss=1.660892e-001,bt = 1.991690e-001
+CLASSNUM = 30,t=34,nRightCount=85,pseudo_loss=7.347610e-002,bt = 7.930298e-002
+CLASSNUM = 30,t=35,nRightCount=83,pseudo_loss=9.401081e-002,bt = 1.037659e-001
+CLASSNUM = 30,t=36,nRightCount=84,pseudo_loss=9.671804e-002,bt = 1.070740e-001
+CLASSNUM = 30,t=37,nRightCount=88,pseudo_loss=6.607742e-002,bt = 7.075257e-002
+CLASSNUM = 30,t=38,nRightCount=82,pseudo_loss=1.162647e-001,bt = 1.315605e-001
+CLASSNUM = 30,t=39,nRightCount=81,pseudo_loss=1.054283e-001,bt = 1.178534e-001
+CLASSNUM = 30,t=40,nRightCount=81,pseudo_loss=1.226380e-001,bt = 1.397803e-001
+CLASSNUM = 30,t=41,nRightCount=90,pseudo_loss=8.787655e-002,bt = 9.634283e-002
+CLASSNUM = 30,t=42,nRightCount=79,pseudo_loss=7.576371e-002,bt = 8.197439e-002
+CLASSNUM = 30,t=43,nRightCount=86,pseudo_loss=7.433169e-002,bt = 8.030057e-002
+CLASSNUM = 30,t=44,nRightCount=84,pseudo_loss=1.151267e-001,bt = 1.301053e-001
+CLASSNUM = 30,t=45,nRightCount=84,pseudo_loss=1.832165e-001,bt = 2.243146e-001
+CLASSNUM = 30,t=46,nRightCount=88,pseudo_loss=1.089111e-001,bt = 1.222225e-001
+CLASSNUM = 30,t=47,nRightCount=78,pseudo_loss=1.337746e-001,bt = 1.544339e-001
+CLASSNUM = 30,t=48,nRightCount=90,pseudo_loss=9.822702e-002,bt = 1.089266e-001
+CLASSNUM = 30,t=49,nRightCount=81,pseudo_loss=1.109255e-001,bt = 1.247651e-001
+CLASSNUM = 30,t=50,nRightCount=88,pseudo_loss=9.889528e-002,bt = 1.097489e-001
+CLASSNUM = 30,t=51,nRightCount=87,pseudo_loss=1.183282e-001,bt = 1.342088e-001
+CLASSNUM = 30,t=52,nRightCount=84,pseudo_loss=6.897002e-002,bt = 7.407927e-002
+CLASSNUM = 30,t=53,nRightCount=95,pseudo_loss=3.788617e-002,bt = 3.937805e-002
+CLASSNUM = 30,t=54,nRightCount=83,pseudo_loss=1.257402e-001,bt = 1.438247e-001
+CLASSNUM = 30,t=55,nRightCount=87,pseudo_loss=8.601007e-002,bt = 9.410396e-002
+CLASSNUM = 30,t=56,nRightCount=87,pseudo_loss=7.671805e-002,bt = 8.309277e-002
+CLASSNUM = 30,t=57,nRightCount=93,pseudo_loss=7.162030e-002,bt = 7.714548e-002
+CLASSNUM = 30,t=58,nRightCount=90,pseudo_loss=1.072154e-001,bt = 1.200910e-001
+CLASSNUM = 30,t=59,nRightCount=90,pseudo_loss=9.980463e-002,bt = 1.108700e-001
+CLASSNUM = 30,t=60,nRightCount=96,pseudo_loss=7.707182e-002,bt = 8.350793e-002
+CLASSNUM = 30,t=61,nRightCount=77,pseudo_loss=1.097009e-001,bt = 1.232180e-001
+CLASSNUM = 30,t=62,nRightCount=89,pseudo_loss=7.062622e-002,bt = 7.599334e-002
+CLASSNUM = 30,t=63,nRightCount=77,pseudo_loss=8.326865e-002,bt = 9.083212e-002
+CLASSNUM = 30,t=64,nRightCount=89,pseudo_loss=8.214943e-002,bt = 8.950196e-002
+CLASSNUM = 30,t=65,nRightCount=82,pseudo_loss=1.306572e-001,bt = 1.502942e-001
+CLASSNUM = 30,t=66,nRightCount=89,pseudo_loss=7.821277e-002,bt = 8.484905e-002
+CLASSNUM = 30,t=67,nRightCount=91,pseudo_loss=1.656456e-001,bt = 1.985315e-001
+CLASSNUM = 30,t=68,nRightCount=91,pseudo_loss=1.230230e-001,bt = 1.402807e-001
+CLASSNUM = 30,t=69,nRightCount=90,pseudo_loss=7.637886e-002,bt = 8.269501e-002
+CLASSNUM = 30,t=70,nRightCount=87,pseudo_loss=1.298111e-001,bt = 1.491757e-001
+CLASSNUM = 30,t=71,nRightCount=83,pseudo_loss=1.227966e-001,bt = 1.399864e-001
+CLASSNUM = 30,t=72,nRightCount=88,pseudo_loss=9.595709e-002,bt = 1.061422e-001
+CLASSNUM = 30,t=73,nRightCount=81,pseudo_loss=1.398282e-001,bt = 1.625584e-001
+CLASSNUM = 30,t=74,nRightCount=80,pseudo_loss=1.893838e-001,bt = 2.336295e-001
+CLASSNUM = 30,t=75,nRightCount=85,pseudo_loss=1.305754e-001,bt = 1.501859e-001
+CLASSNUM = 30,t=76,nRightCount=70,pseudo_loss=9.592723e-002,bt = 1.061056e-001
+CLASSNUM = 30,t=77,nRightCount=83,pseudo_loss=1.168841e-001,bt = 1.323543e-001
+CLASSNUM = 30,t=78,nRightCount=83,pseudo_loss=9.925798e-002,bt = 1.101958e-001
+CLASSNUM = 30,t=79,nRightCount=81,pseudo_loss=1.735899e-001,bt = 2.100530e-001
+CLASSNUM = 30,t=80,nRightCount=86,pseudo_loss=1.054758e-001,bt = 1.179127e-001
+CLASSNUM = 30,t=81,nRightCount=87,pseudo_loss=1.659501e-001,bt = 1.989691e-001
+CLASSNUM = 30,t=82,nRightCount=92,pseudo_loss=8.212421e-002,bt = 8.947203e-002
+CLASSNUM = 30,t=83,nRightCount=92,pseudo_loss=1.239333e-001,bt = 1.414656e-001
+CLASSNUM = 30,t=84,nRightCount=89,pseudo_loss=1.061380e-001,bt = 1.187410e-001
+CLASSNUM = 30,t=85,nRightCount=89,pseudo_loss=6.173430e-002,bt = 6.579618e-002
+CLASSNUM = 30,t=86,nRightCount=85,pseudo_loss=1.117139e-001,bt = 1.257635e-001
+CLASSNUM = 30,t=87,nRightCount=77,pseudo_loss=1.106125e-001,bt = 1.243694e-001
+CLASSNUM = 30,t=88,nRightCount=89,pseudo_loss=7.973433e-002,bt = 8.664273e-002
+CLASSNUM = 30,t=89,nRightCount=81,pseudo_loss=1.173067e-001,bt = 1.328963e-001
+CLASSNUM = 30,t=90,nRightCount=77,pseudo_loss=1.234260e-001,bt = 1.408050e-001
+CLASSNUM = 30,t=91,nRightCount=81,pseudo_loss=1.513671e-001,bt = 1.783658e-001
+CLASSNUM = 30,t=92,nRightCount=90,pseudo_loss=1.030897e-001,bt = 1.149386e-001
+CLASSNUM = 30,t=93,nRightCount=76,pseudo_loss=8.239366e-002,bt = 8.979194e-002
+CLASSNUM = 30,t=94,nRightCount=82,pseudo_loss=9.566983e-002,bt = 1.057908e-001
+CLASSNUM = 30,t=95,nRightCount=88,pseudo_loss=1.431582e-001,bt = 1.670765e-001
+CLASSNUM = 30,t=96,nRightCount=85,pseudo_loss=1.523549e-001,bt = 1.797390e-001
+CLASSNUM = 30,t=97,nRightCount=89,pseudo_loss=8.491231e-002,bt = 9.279145e-002
+CLASSNUM = 30,t=98,nRightCount=85,pseudo_loss=1.542240e-001,bt = 1.823462e-001
+CLASSNUM = 30,t=99,nRightCount=97,pseudo_loss=8.521641e-002,bt = 9.315472e-002
+CLASSNUM = 30,t=100,nRightCount=80,pseudo_loss=1.343779e-001,bt = 1.552385e-001
+CLASSNUM = 30,t=101,nRightCount=68,pseudo_loss=1.549654e-001,bt = 1.833835e-001
+CLASSNUM = 30,t=102,nRightCount=88,pseudo_loss=8.797171e-002,bt = 9.645722e-002
+CLASSNUM = 30,t=103,nRightCount=88,pseudo_loss=4.240330e-002,bt = 4.428096e-002
+CLASSNUM = 30,t=104,nRightCount=93,pseudo_loss=7.473984e-002,bt = 8.077711e-002
+CLASSNUM = 30,t=105,nRightCount=92,pseudo_loss=5.445621e-002,bt = 5.759247e-002
+CLASSNUM = 30,t=106,nRightCount=89,pseudo_loss=1.109422e-001,bt = 1.247862e-001
+CLASSNUM = 30,t=107,nRightCount=84,pseudo_loss=1.199708e-001,bt = 1.363260e-001
+CLASSNUM = 30,t=108,nRightCount=96,pseudo_loss=1.093951e-001,bt = 1.228324e-001
+CLASSNUM = 30,t=109,nRightCount=96,pseudo_loss=5.054844e-002,bt = 5.323962e-002
+CLASSNUM = 30,t=110,nRightCount=93,pseudo_loss=6.976168e-002,bt = 7.499334e-002
+CLASSNUM = 30,t=111,nRightCount=81,pseudo_loss=1.196020e-001,bt = 1.358500e-001
+CLASSNUM = 30,t=112,nRightCount=85,pseudo_loss=7.205363e-002,bt = 7.764849e-002
+CLASSNUM = 30,t=113,nRightCount=93,pseudo_loss=4.401215e-002,bt = 4.603840e-002
+CLASSNUM = 30,t=114,nRightCount=82,pseudo_loss=6.927362e-002,bt = 7.442963e-002
+CLASSNUM = 30,t=115,nRightCount=86,pseudo_loss=1.147415e-001,bt = 1.296135e-001
+CLASSNUM = 30,t=116,nRightCount=86,pseudo_loss=8.755508e-002,bt = 9.595656e-002
+CLASSNUM = 30,t=117,nRightCount=89,pseudo_loss=1.222350e-001,bt = 1.392571e-001
+CLASSNUM = 30,t=118,nRightCount=84,pseudo_loss=8.715278e-002,bt = 9.547357e-002
+CLASSNUM = 30,t=119,nRightCount=78,pseudo_loss=8.052766e-002,bt = 8.758030e-002
+CLASSNUM = 30,t=120,nRightCount=82,pseudo_loss=1.252751e-001,bt = 1.432165e-001
+CLASSNUM = 30,t=121,nRightCount=92,pseudo_loss=1.058031e-001,bt = 1.183220e-001
+CLASSNUM = 30,t=122,nRightCount=84,pseudo_loss=9.322553e-002,bt = 1.028100e-001
+CLASSNUM = 30,t=123,nRightCount=96,pseudo_loss=9.233544e-002,bt = 1.017286e-001
+CLASSNUM = 30,t=124,nRightCount=78,pseudo_loss=1.530642e-001,bt = 1.807271e-001
+CLASSNUM = 30,t=125,nRightCount=81,pseudo_loss=1.191458e-001,bt = 1.352617e-001
+CLASSNUM = 30,t=126,nRightCount=76,pseudo_loss=1.537609e-001,bt = 1.816992e-001
+CLASSNUM = 30,t=127,nRightCount=85,pseudo_loss=7.602745e-002,bt = 8.228324e-002
+CLASSNUM = 30,t=128,nRightCount=85,pseudo_loss=1.231886e-001,bt = 1.404961e-001
+CLASSNUM = 30,t=129,nRightCount=81,pseudo_loss=1.292959e-001,bt = 1.484958e-001
+CLASSNUM = 30,t=130,nRightCount=85,pseudo_loss=1.111658e-001,bt = 1.250692e-001
+CLASSNUM = 30,t=131,nRightCount=82,pseudo_loss=1.164511e-001,bt = 1.317992e-001
+CLASSNUM = 30,t=132,nRightCount=89,pseudo_loss=8.259101e-002,bt = 9.002638e-002
+CLASSNUM = 30,t=133,nRightCount=86,pseudo_loss=8.823249e-002,bt = 9.677082e-002
+CLASSNUM = 30,t=134,nRightCount=91,pseudo_loss=5.312394e-002,bt = 5.610443e-002
+CLASSNUM = 30,t=135,nRightCount=86,pseudo_loss=1.041657e-001,bt = 1.162778e-001
+CLASSNUM = 30,t=136,nRightCount=80,pseudo_loss=8.709507e-002,bt = 9.540432e-002
+CLASSNUM = 30,t=137,nRightCount=78,pseudo_loss=9.445562e-002,bt = 1.043081e-001
+CLASSNUM = 30,t=138,nRightCount=82,pseudo_loss=9.190738e-002,bt = 1.012093e-001
+CLASSNUM = 30,t=139,nRightCount=79,pseudo_loss=1.651765e-001,bt = 1.978579e-001
+CLASSNUM = 30,t=140,nRightCount=83,pseudo_loss=8.921719e-002,bt = 9.795661e-002
+CLASSNUM = 30,t=141,nRightCount=85,pseudo_loss=8.750734e-002,bt = 9.589923e-002
+CLASSNUM = 30,t=142,nRightCount=85,pseudo_loss=1.050943e-001,bt = 1.174362e-001
+CLASSNUM = 30,t=143,nRightCount=81,pseudo_loss=1.078866e-001,bt = 1.209338e-001
+CLASSNUM = 30,t=144,nRightCount=87,pseudo_loss=4.901778e-002,bt = 5.154437e-002
+CLASSNUM = 30,t=145,nRightCount=82,pseudo_loss=6.086334e-002,bt = 6.480776e-002
+CLASSNUM = 30,t=146,nRightCount=95,pseudo_loss=4.635221e-002,bt = 4.860517e-002
+CLASSNUM = 30,t=147,nRightCount=86,pseudo_loss=1.047793e-001,bt = 1.170430e-001
+CLASSNUM = 30,t=148,nRightCount=82,pseudo_loss=1.175483e-001,bt = 1.332065e-001
+CLASSNUM = 30,t=149,nRightCount=91,pseudo_loss=9.447637e-002,bt = 1.043334e-001
+CLASSNUM = 30,t=150,nRightCount=85,pseudo_loss=1.169762e-001,bt = 1.324723e-001
+CLASSNUM = 30,t=151,nRightCount=86,pseudo_loss=1.111826e-001,bt = 1.250905e-001
+CLASSNUM = 30,t=152,nRightCount=87,pseudo_loss=1.141687e-001,bt = 1.288831e-001
+CLASSNUM = 30,t=153,nRightCount=80,pseudo_loss=1.329613e-001,bt = 1.533511e-001
+CLASSNUM = 30,t=154,nRightCount=73,pseudo_loss=1.227278e-001,bt = 1.398971e-001
+CLASSNUM = 30,t=155,nRightCount=77,pseudo_loss=1.416047e-001,bt = 1.649644e-001
+CLASSNUM = 30,t=156,nRightCount=87,pseudo_loss=9.603295e-002,bt = 1.062350e-001
+CLASSNUM = 30,t=157,nRightCount=91,pseudo_loss=1.086196e-001,bt = 1.218555e-001
+CLASSNUM = 30,t=158,nRightCount=88,pseudo_loss=1.076728e-001,bt = 1.206651e-001
+CLASSNUM = 30,t=159,nRightCount=86,pseudo_loss=9.322741e-002,bt = 1.028123e-001
+CLASSNUM = 30,t=160,nRightCount=91,pseudo_loss=8.784157e-002,bt = 9.630078e-002
+CLASSNUM = 30,t=161,nRightCount=81,pseudo_loss=1.043683e-001,bt = 1.165303e-001
+CLASSNUM = 30,t=162,nRightCount=77,pseudo_loss=1.344957e-001,bt = 1.553958e-001
+CLASSNUM = 30,t=163,nRightCount=86,pseudo_loss=8.231016e-002,bt = 8.969279e-002
+CLASSNUM = 30,t=164,nRightCount=95,pseudo_loss=1.017973e-001,bt = 1.133344e-001
+CLASSNUM = 30,t=165,nRightCount=83,pseudo_loss=1.141447e-001,bt = 1.288526e-001
+CLASSNUM = 30,t=166,nRightCount=88,pseudo_loss=8.558778e-002,bt = 9.359869e-002
+CLASSNUM = 30,t=167,nRightCount=82,pseudo_loss=1.079232e-001,bt = 1.209797e-001
+CLASSNUM = 30,t=168,nRightCount=89,pseudo_loss=4.913332e-002,bt = 5.167215e-002
+CLASSNUM = 30,t=169,nRightCount=81,pseudo_loss=1.403357e-001,bt = 1.632447e-001
+CLASSNUM = 30,t=170,nRightCount=87,pseudo_loss=1.011514e-001,bt = 1.125344e-001
+CLASSNUM = 30,t=171,nRightCount=84,pseudo_loss=7.630259e-002,bt = 8.260562e-002
+CLASSNUM = 30,t=172,nRightCount=84,pseudo_loss=1.083677e-001,bt = 1.215385e-001
+CLASSNUM = 30,t=173,nRightCount=89,pseudo_loss=8.840516e-002,bt = 9.697856e-002
+CLASSNUM = 30,t=174,nRightCount=90,pseudo_loss=9.378658e-002,bt = 1.034928e-001
+CLASSNUM = 30,t=175,nRightCount=82,pseudo_loss=1.318272e-001,bt = 1.518445e-001
+CLASSNUM = 30,t=176,nRightCount=87,pseudo_loss=8.847717e-002,bt = 9.706523e-002
+CLASSNUM = 30,t=177,nRightCount=90,pseudo_loss=7.519666e-002,bt = 8.131097e-002
+CLASSNUM = 30,t=178,nRightCount=88,pseudo_loss=6.746991e-002,bt = 7.235145e-002
+CLASSNUM = 30,t=179,nRightCount=90,pseudo_loss=5.850605e-002,bt = 6.214171e-002
+CLASSNUM = 30,t=180,nRightCount=82,pseudo_loss=1.072767e-001,bt = 1.201680e-001
+CLASSNUM = 30,t=181,nRightCount=79,pseudo_loss=1.031597e-001,bt = 1.150257e-001
+CLASSNUM = 30,t=182,nRightCount=91,pseudo_loss=1.081624e-001,bt = 1.212804e-001
+CLASSNUM = 30,t=183,nRightCount=83,pseudo_loss=9.143016e-002,bt = 1.006309e-001
+CLASSNUM = 30,t=184,nRightCount=90,pseudo_loss=8.336587e-002,bt = 9.094781e-002
+CLASSNUM = 30,t=185,nRightCount=89,pseudo_loss=5.782803e-002,bt = 6.137736e-002
+CLASSNUM = 30,t=186,nRightCount=93,pseudo_loss=5.067734e-002,bt = 5.338263e-002
+CLASSNUM = 30,t=187,nRightCount=88,pseudo_loss=9.613365e-002,bt = 1.063583e-001
+CLASSNUM = 30,t=188,nRightCount=89,pseudo_loss=9.523662e-002,bt = 1.052614e-001
+CLASSNUM = 30,t=189,nRightCount=92,pseudo_loss=8.319795e-002,bt = 9.074800e-002
+CLASSNUM = 30,t=190,nRightCount=91,pseudo_loss=7.500726e-002,bt = 8.108956e-002
+CLASSNUM = 30,t=191,nRightCount=83,pseudo_loss=1.349763e-001,bt = 1.560377e-001
+CLASSNUM = 30,t=192,nRightCount=87,pseudo_loss=1.244233e-001,bt = 1.421043e-001
+CLASSNUM = 30,t=193,nRightCount=88,pseudo_loss=8.061316e-002,bt = 8.768144e-002
+CLASSNUM = 30,t=194,nRightCount=85,pseudo_loss=7.764942e-002,bt = 8.418644e-002
+CLASSNUM = 30,t=195,nRightCount=83,pseudo_loss=7.105124e-002,bt = 7.648564e-002
+CLASSNUM = 30,t=196,nRightCount=86,pseudo_loss=1.153823e-001,bt = 1.304319e-001
+CLASSNUM = 30,t=197,nRightCount=98,pseudo_loss=7.969118e-002,bt = 8.659178e-002
+CLASSNUM = 30,t=198,nRightCount=94,pseudo_loss=6.785942e-002,bt = 7.279956e-002
+CLASSNUM = 30,t=199,nRightCount=90,pseudo_loss=9.923805e-002,bt = 1.101712e-001
+CLASSNUM = 30,t=200,nRightCount=81,pseudo_loss=7.945816e-002,bt = 8.631673e-002
+CLASSNUM = 30,t=201,nRightCount=81,pseudo_loss=1.232277e-001,bt = 1.405470e-001
+CLASSNUM = 30,t=202,nRightCount=89,pseudo_loss=7.045909e-002,bt = 7.579989e-002
+CLASSNUM = 30,t=203,nRightCount=85,pseudo_loss=6.736438e-002,bt = 7.223012e-002
+CLASSNUM = 30,t=204,nRightCount=87,pseudo_loss=1.066918e-001,bt = 1.194345e-001
+CLASSNUM = 30,t=205,nRightCount=94,pseudo_loss=9.428480e-002,bt = 1.040998e-001
+CLASSNUM = 30,t=206,nRightCount=90,pseudo_loss=7.773563e-002,bt = 8.428779e-002
+CLASSNUM = 30,t=207,nRightCount=80,pseudo_loss=1.067760e-001,bt = 1.195400e-001
+CLASSNUM = 30,t=208,nRightCount=81,pseudo_loss=1.743779e-001,bt = 2.112079e-001
+CLASSNUM = 30,t=209,nRightCount=85,pseudo_loss=7.195144e-002,bt = 7.752983e-002
+CLASSNUM = 30,t=210,nRightCount=90,pseudo_loss=1.081636e-001,bt = 1.212819e-001
+CLASSNUM = 30,t=211,nRightCount=90,pseudo_loss=8.702255e-002,bt = 9.531731e-002
+CLASSNUM = 30,t=212,nRightCount=88,pseudo_loss=7.186453e-002,bt = 7.742892e-002
+CLASSNUM = 30,t=213,nRightCount=91,pseudo_loss=1.293782e-001,bt = 1.486043e-001
+CLASSNUM = 30,t=214,nRightCount=86,pseudo_loss=8.343550e-002,bt = 9.103070e-002
+CLASSNUM = 30,t=215,nRightCount=85,pseudo_loss=1.274188e-001,bt = 1.460251e-001
+CLASSNUM = 30,t=216,nRightCount=89,pseudo_loss=1.206162e-001,bt = 1.371599e-001
+CLASSNUM = 30,t=217,nRightCount=88,pseudo_loss=1.238804e-001,bt = 1.413966e-001
+CLASSNUM = 30,t=218,nRightCount=87,pseudo_loss=1.355705e-001,bt = 1.568324e-001
+CLASSNUM = 30,t=219,nRightCount=94,pseudo_loss=1.415012e-001,bt = 1.648240e-001
+CLASSNUM = 30,t=220,nRightCount=79,pseudo_loss=1.244487e-001,bt = 1.421375e-001
+CLASSNUM = 30,t=221,nRightCount=91,pseudo_loss=9.021121e-002,bt = 9.915621e-002
+CLASSNUM = 30,t=222,nRightCount=81,pseudo_loss=9.756418e-002,bt = 1.081120e-001
+CLASSNUM = 30,t=223,nRightCount=80,pseudo_loss=1.418977e-001,bt = 1.653622e-001
+CLASSNUM = 30,t=224,nRightCount=84,pseudo_loss=1.313922e-001,bt = 1.512676e-001
+CLASSNUM = 30,t=225,nRightCount=94,pseudo_loss=9.194071e-002,bt = 1.012497e-001
+CLASSNUM = 30,t=226,nRightCount=84,pseudo_loss=8.143794e-002,bt = 8.865807e-002
+CLASSNUM = 30,t=227,nRightCount=77,pseudo_loss=1.252167e-001,bt = 1.431402e-001
+CLASSNUM = 30,t=228,nRightCount=78,pseudo_loss=1.351837e-001,bt = 1.563150e-001
+CLASSNUM = 30,t=229,nRightCount=81,pseudo_loss=1.081741e-001,bt = 1.212951e-001
+CLASSNUM = 30,t=230,nRightCount=82,pseudo_loss=1.397662e-001,bt = 1.624747e-001
+CLASSNUM = 30,t=231,nRightCount=90,pseudo_loss=7.490127e-002,bt = 8.096570e-002
+CLASSNUM = 30,t=232,nRightCount=81,pseudo_loss=1.056429e-001,bt = 1.181216e-001
+CLASSNUM = 30,t=233,nRightCount=82,pseudo_loss=1.592950e-001,bt = 1.894779e-001
+CLASSNUM = 30,t=234,nRightCount=90,pseudo_loss=1.064346e-001,bt = 1.191123e-001
+CLASSNUM = 30,t=235,nRightCount=75,pseudo_loss=1.394151e-001,bt = 1.620004e-001
+CLASSNUM = 30,t=236,nRightCount=87,pseudo_loss=1.108591e-001,bt = 1.246812e-001
+CLASSNUM = 30,t=237,nRightCount=74,pseudo_loss=1.277299e-001,bt = 1.464339e-001
+CLASSNUM = 30,t=238,nRightCount=84,pseudo_loss=6.969227e-002,bt = 7.491314e-002
+CLASSNUM = 30,t=239,nRightCount=86,pseudo_loss=1.141032e-001,bt = 1.287996e-001
+CLASSNUM = 30,t=240,nRightCount=87,pseudo_loss=8.275859e-002,bt = 9.022553e-002
+CLASSNUM = 30,t=241,nRightCount=82,pseudo_loss=7.595382e-002,bt = 8.219700e-002
+CLASSNUM = 30,t=242,nRightCount=79,pseudo_loss=1.259482e-001,bt = 1.440969e-001
+CLASSNUM = 30,t=243,nRightCount=85,pseudo_loss=8.608378e-002,bt = 9.419220e-002
+CLASSNUM = 30,t=244,nRightCount=89,pseudo_loss=8.876581e-002,bt = 9.741273e-002
+CLASSNUM = 30,t=245,nRightCount=87,pseudo_loss=1.124829e-001,bt = 1.267389e-001
+CLASSNUM = 30,t=246,nRightCount=85,pseudo_loss=1.080955e-001,bt = 1.211963e-001
+CLASSNUM = 30,t=247,nRightCount=86,pseudo_loss=9.168151e-002,bt = 1.009354e-001
+CLASSNUM = 30,t=248,nRightCount=86,pseudo_loss=1.263699e-001,bt = 1.446492e-001
+CLASSNUM = 30,t=249,nRightCount=84,pseudo_loss=9.383892e-002,bt = 1.035566e-001
+CLASSNUM = 30,t=250,nRightCount=77,pseudo_loss=1.418994e-001,bt = 1.653646e-001
+CLASSNUM = 30,t=251,nRightCount=88,pseudo_loss=8.574460e-002,bt = 9.378626e-002
+CLASSNUM = 30,t=252,nRightCount=82,pseudo_loss=8.229267e-002,bt = 8.967202e-002
+CLASSNUM = 30,t=253,nRightCount=78,pseudo_loss=1.294899e-001,bt = 1.487518e-001
+CLASSNUM = 30,t=254,nRightCount=82,pseudo_loss=8.353879e-002,bt = 9.115365e-002
+CLASSNUM = 30,t=255,nRightCount=78,pseudo_loss=1.563948e-001,bt = 1.853886e-001
+CLASSNUM = 30,t=256,nRightCount=82,pseudo_loss=1.526085e-001,bt = 1.800921e-001
+CLASSNUM = 30,t=257,nRightCount=85,pseudo_loss=1.058716e-001,bt = 1.184076e-001
+CLASSNUM = 30,t=258,nRightCount=87,pseudo_loss=7.898659e-002,bt = 8.576052e-002
+CLASSNUM = 30,t=259,nRightCount=91,pseudo_loss=6.526794e-002,bt = 6.982529e-002
+CLASSNUM = 30,t=260,nRightCount=88,pseudo_loss=9.121504e-002,bt = 1.003703e-001
+CLASSNUM = 30,t=261,nRightCount=89,pseudo_loss=8.765325e-002,bt = 9.607449e-002
+CLASSNUM = 30,t=262,nRightCount=89,pseudo_loss=7.414917e-002,bt = 8.008760e-002
+CLASSNUM = 30,t=263,nRightCount=79,pseudo_loss=1.303059e-001,bt = 1.498295e-001
+CLASSNUM = 30,t=264,nRightCount=86,pseudo_loss=6.996793e-002,bt = 7.523174e-002
+CLASSNUM = 30,t=265,nRightCount=84,pseudo_loss=7.498016e-002,bt = 8.105790e-002
+CLASSNUM = 30,t=266,nRightCount=85,pseudo_loss=1.654318e-001,bt = 1.982244e-001
+CLASSNUM = 30,t=267,nRightCount=85,pseudo_loss=9.447730e-002,bt = 1.043345e-001
+CLASSNUM = 30,t=268,nRightCount=86,pseudo_loss=1.302200e-001,bt = 1.497160e-001
+CLASSNUM = 30,t=269,nRightCount=84,pseudo_loss=1.342362e-001,bt = 1.550494e-001
+CLASSNUM = 30,t=270,nRightCount=95,pseudo_loss=5.276815e-002,bt = 5.570775e-002
+CLASSNUM = 30,t=271,nRightCount=98,pseudo_loss=6.045194e-002,bt = 6.434151e-002
+CLASSNUM = 30,t=272,nRightCount=77,pseudo_loss=1.350039e-001,bt = 1.560746e-001
+CLASSNUM = 30,t=273,nRightCount=77,pseudo_loss=6.610014e-002,bt = 7.077862e-002
+CLASSNUM = 30,t=274,nRightCount=79,pseudo_loss=1.335184e-001,bt = 1.540926e-001
+CLASSNUM = 30,t=275,nRightCount=89,pseudo_loss=5.565863e-002,bt = 5.893910e-002
+CLASSNUM = 30,t=276,nRightCount=80,pseudo_loss=1.447576e-001,bt = 1.692591e-001
+CLASSNUM = 30,t=277,nRightCount=88,pseudo_loss=6.348286e-002,bt = 6.778611e-002
+CLASSNUM = 30,t=278,nRightCount=84,pseudo_loss=8.765361e-002,bt = 9.607492e-002
+CLASSNUM = 30,t=279,nRightCount=88,pseudo_loss=1.368502e-001,bt = 1.585474e-001
+CLASSNUM = 30,t=280,nRightCount=86,pseudo_loss=9.239805e-002,bt = 1.018046e-001
+CLASSNUM = 30,t=281,nRightCount=92,pseudo_loss=8.621162e-002,bt = 9.434528e-002
+CLASSNUM = 30,t=282,nRightCount=87,pseudo_loss=1.184682e-001,bt = 1.343890e-001
+CLASSNUM = 30,t=283,nRightCount=80,pseudo_loss=1.205508e-001,bt = 1.370754e-001
+CLASSNUM = 30,t=284,nRightCount=91,pseudo_loss=1.172911e-001,bt = 1.328763e-001
+CLASSNUM = 30,t=285,nRightCount=84,pseudo_loss=8.916829e-002,bt = 9.789766e-002
+CLASSNUM = 30,t=286,nRightCount=83,pseudo_loss=8.762402e-002,bt = 9.603938e-002
+CLASSNUM = 30,t=287,nRightCount=88,pseudo_loss=9.758910e-002,bt = 1.081426e-001
+CLASSNUM = 30,t=288,nRightCount=82,pseudo_loss=1.458944e-001,bt = 1.708155e-001
+CLASSNUM = 30,t=289,nRightCount=94,pseudo_loss=8.383506e-002,bt = 9.150652e-002
+CLASSNUM = 30,t=290,nRightCount=93,pseudo_loss=7.688042e-002,bt = 8.328328e-002
+CLASSNUM = 30,t=291,nRightCount=84,pseudo_loss=9.780944e-002,bt = 1.084133e-001
+CLASSNUM = 30,t=292,nRightCount=87,pseudo_loss=1.211645e-001,bt = 1.378693e-001
+CLASSNUM = 30,t=293,nRightCount=89,pseudo_loss=1.156808e-001,bt = 1.308133e-001
+CLASSNUM = 30,t=294,nRightCount=81,pseudo_loss=1.063862e-001,bt = 1.190516e-001
+CLASSNUM = 30,t=295,nRightCount=89,pseudo_loss=7.784207e-002,bt = 8.441295e-002
+CLASSNUM = 30,t=296,nRightCount=91,pseudo_loss=6.150384e-002,bt = 6.553446e-002
+CLASSNUM = 30,t=297,nRightCount=79,pseudo_loss=1.250732e-001,bt = 1.429527e-001
+CLASSNUM = 30,t=298,nRightCount=84,pseudo_loss=5.076409e-002,bt = 5.347889e-002
+CLASSNUM = 30,t=299,nRightCount=87,pseudo_loss=5.721492e-002,bt = 6.068713e-002
+CLASSNUM = 30,t=300,nRightCount=86,pseudo_loss=7.608491e-002,bt = 8.235054e-002
+t=1,DIM= 50,RightCount=103,RightRatio=8.583333e-001
+t=2,DIM= 50,RightCount=103,RightRatio=8.583333e-001
+t=3,DIM= 50,RightCount=106,RightRatio=8.833333e-001
+t=4,DIM= 50,RightCount=105,RightRatio=8.750000e-001
+t=5,DIM= 50,RightCount=108,RightRatio=9.000000e-001
+t=6,DIM= 50,RightCount=108,RightRatio=9.000000e-001
+t=7,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=8,DIM= 50,RightCount=108,RightRatio=9.000000e-001
+t=9,DIM= 50,RightCount=108,RightRatio=9.000000e-001
+t=10,DIM= 50,RightCount=108,RightRatio=9.000000e-001
+t=11,DIM= 50,RightCount=108,RightRatio=9.000000e-001
+t=12,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=13,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=14,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=15,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=16,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=17,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=18,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=19,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=20,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=21,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=22,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=23,DIM= 50,RightCount=113,RightRatio=9.416667e-001
+t=24,DIM= 50,RightCount=113,RightRatio=9.416667e-001
+t=25,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=26,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=27,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=28,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=29,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=30,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=31,DIM= 50,RightCount=113,RightRatio=9.416667e-001
+t=32,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=33,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=34,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=35,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=36,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=37,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=38,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=39,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=40,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=41,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=42,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=43,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=44,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=45,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=46,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=47,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=48,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=49,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=50,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=51,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=52,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=53,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=54,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=55,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=56,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=57,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=58,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=59,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=60,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=61,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=62,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=63,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=64,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=65,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=66,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=67,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=68,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=69,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=70,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=71,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=72,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=73,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=74,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=75,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=76,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=77,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=78,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=79,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=80,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=81,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=82,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=83,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=84,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=85,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=86,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=87,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=88,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=89,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=90,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=91,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=92,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=93,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=94,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=95,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=96,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=97,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=98,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=99,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=100,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=101,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=102,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=103,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=104,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=105,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=106,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=107,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=108,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=109,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=110,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=111,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=112,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=113,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=114,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=115,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=116,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=117,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=118,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=119,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=120,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=121,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=122,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=123,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=124,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=125,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=126,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=127,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=128,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=129,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=130,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=131,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=132,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=133,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=134,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=135,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=136,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=137,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=138,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=139,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=140,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=141,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=142,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=143,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=144,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=145,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=146,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=147,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=148,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=149,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=150,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=151,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=152,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=153,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=154,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=155,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=156,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=157,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=158,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=159,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=160,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=161,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=162,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=163,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=164,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=165,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=166,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=167,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=168,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=169,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=170,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=171,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=172,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=173,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=174,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=175,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=176,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=177,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=178,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=179,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=180,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=181,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=182,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=183,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=184,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=185,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=186,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=187,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=188,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=189,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=190,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=191,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=192,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=193,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=194,DIM= 50,RightCount=112,RightRatio=9.333333e-001
+t=195,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=196,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=197,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=198,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=199,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=200,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=201,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=202,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=203,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=204,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=205,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=206,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=207,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=208,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=209,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=210,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=211,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=212,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=213,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=214,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=215,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=216,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=217,DIM= 50,RightCount=111,RightRatio=9.250000e-001
+t=218,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=219,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=220,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=221,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=222,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=223,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=224,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=225,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=226,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=227,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=228,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=229,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=230,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=231,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=232,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=233,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=234,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=235,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=236,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=237,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=238,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=239,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=240,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=241,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=242,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=243,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=244,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=245,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=246,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=247,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=248,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=249,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=250,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=251,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=252,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=253,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=254,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=255,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=256,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=257,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=258,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=259,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=260,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=261,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=262,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=263,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=264,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=265,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=266,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=267,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=268,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=269,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=270,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=271,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=272,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=273,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=274,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=275,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=276,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=277,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=278,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=279,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=280,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=281,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=282,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=283,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=284,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=285,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=286,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=287,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=288,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=289,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=290,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=291,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=292,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=293,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=294,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=295,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=296,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=297,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=298,DIM= 50,RightCount=109,RightRatio=9.083333e-001
+t=299,DIM= 50,RightCount=110,RightRatio=9.166667e-001
+t=300,DIM= 50,RightCount=110,RightRatio=9.166667e-001
