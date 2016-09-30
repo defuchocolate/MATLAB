@@ -23,6 +23,7 @@ plot(te_set(indices,1),te_set(indices,2),'b*');
 indices=~indices;
 plot(te_set(indices,1),te_set(indices,2),'r*');
 title('Training set');
+
 % Training and testing error rates
 tr_error=zeros(1,weak_learner_n);
 te_error=zeros(1,weak_learner_n);
